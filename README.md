@@ -1,2 +1,2 @@
-# class-27
-I worked on the angry bird game
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
